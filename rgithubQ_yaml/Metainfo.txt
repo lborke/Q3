@@ -1,0 +1,19 @@
+
+Name of Quantlet: rgithubQ_yaml
+
+Published in: GitHub API based QuantNet Mining infrastructure in R
+
+Description: 'shows the interaction of two R packages rgithubQ and yamldebugger.
+Two GitHub API search examples for Quantlet extraction are given and their YAML meta data are parsed.
+Some YAML data fields are retrieved by means of the yamldebugger and the results are aggregated as data frames.
+Additionally, real time QuantNet@GitHub statistics via the "qnet.stats" function from the rgithubQ package are generated.'
+
+Keywords: rgithubQ, yamldebugger, GitHub API, YAML, software mining, QuantNet, real time, statistics
+
+See also: rgithubQ_yaml_TM, yaml_run
+
+Author: Lukas Borke
+
+Submitted: 28.06.2017 by Lukas Borke
+
+Example: rgithubQ_qnet_stats.md, rgithubQ_yaml.md, rgithubQ_black_scholes.md, rgithubQ_Top10authors_black_scholes.md
