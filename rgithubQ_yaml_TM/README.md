@@ -28,6 +28,12 @@ Example : rgithubQ_TM_search_1.md, rgithubQ_TM_search_2.md
 
 ```
 
+|                   | BVSM| GVSM(TT)| LSA| LSA6| BVSM| GVSM(TT)| LSA| LSA6| BVSM| GVSM(TT)| LSA| LSA6|
+|:------------------|----:|--------:|---:|----:|----:|--------:|---:|----:|----:|--------:|---:|----:|
+|european option    |    0|       65|  12|   47|    2|       77|  38|   51|    8|       83|  46|   55|
+|implied volatility |    2|        5|   4|    8|    2|        8|   6|   10|    4|       11|   8|   11|
+|black scholes      |    0|       84|   0|    1|    0|       95|   0|    4|    0|       97|   9|   32|
+
 
 ### R Code:
 ```r
